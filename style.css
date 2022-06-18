@@ -16,15 +16,33 @@ body.colors {
 
 
 /* Fonts */
-
+body.fonts {
+    border: 2.3px solid #333;
+    margin: 0px auto;
+    padding: 0px auto;
+    position: center;
+    width: 50%;
+}
 
 
 /* Text Styles */
-
+body.text-style {
+    border: 2.3px solid #333;
+    margin: 0px auto;
+    padding: 0px auto;
+    position: center;
+    width: 50%;
+}
 
 
 /* Nav Bar */
-
+body.navigation {
+    border: 2.3px solid #333;
+    margin: 0px auto;
+    padding: 0px auto;
+    position: center;
+    width: 50%;
+}
 
 
 /* Font stuff */
