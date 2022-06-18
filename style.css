@@ -3,10 +3,14 @@
 
 }
 
+/* Head */
+h1 {
+    text-align: center;
+}
 
 
 /* Colors */
-body.colors {
+.colors {
     border: 2.3px solid #333;
     margin: 0px auto;
     padding: 0px auto;
@@ -16,7 +20,7 @@ body.colors {
 
 
 /* Fonts */
-body.fonts {
+.fonts {
     border: 2.3px solid #333;
     margin: 0px auto;
     padding: 0px auto;
@@ -26,7 +30,7 @@ body.fonts {
 
 
 /* Text Styles */
-body.text-style {
+.text-style {
     border: 2.3px solid #333;
     margin: 0px auto;
     padding: 0px auto;
@@ -36,7 +40,7 @@ body.text-style {
 
 
 /* Nav Bar */
-body.navigation {
+.navigation {
     border: 2.3px solid #333;
     margin: 0px auto;
     padding: 0px auto;
