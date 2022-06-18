@@ -10,7 +10,7 @@ h1 {
 
 
 /* Colors */
-.colors {
+div.colors {
     border: 2.3px solid #333;
     margin: 0px auto;
     padding: 0px auto;
@@ -20,7 +20,7 @@ h1 {
 
 
 /* Fonts */
-.fonts {
+div.fonts {
     border: 2.3px solid #333;
     margin: 0px auto;
     padding: 0px auto;
@@ -30,7 +30,7 @@ h1 {
 
 
 /* Text Styles */
-.text-style {
+div.text-style {
     border: 2.3px solid #333;
     margin: 0px auto;
     padding: 0px auto;
@@ -40,7 +40,7 @@ h1 {
 
 
 /* Nav Bar */
-.navigation {
+div.navigation {
     border: 2.3px solid #333;
     margin: 0px auto;
     padding: 0px auto;
