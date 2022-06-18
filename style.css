@@ -1,1 +1,49 @@
-@font
+/* Universal Selector */
+* {
+
+}
+
+
+
+/* Colors */
+body.colors {
+    border: 2.3px solid #333;
+    margin: 0px auto;
+    padding: 0px auto;
+    position: center;
+    width: 50%;
+}
+
+
+/* Fonts */
+
+
+
+/* Text Styles */
+
+
+
+/* Nav Bar */
+
+
+
+/* Font stuff */
+@font-face {
+    font-family:'Nunito_Sans_Regular';
+    src: url(./fonts/Nunito_Sans/NunitoSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Oswald_Regular';
+    src: url(./fonts/Oswald/static/Oswald-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Prompt_Regular';
+    src: url(./fonts/Prompt/Prompt-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Source_Code_Pro_regular';
+    src: url(./fonts/Source_Code_Pro/static/SourceCodePro-Regular.ttf);
+}
