@@ -8,6 +8,15 @@ h1 {
     text-align: center;
 }
 
+/*.Body */
+body {
+
+}
+
+div {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
 
 /* Colors */
 div.colors {
