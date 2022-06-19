@@ -49,7 +49,7 @@ div.colors {
         font-family: 'Source_Code_Pro_regular', sans-serif;
     }
 
-    div.colors h6.color-4 {
+    div.colors h6.color-4, {
         Border: 1px solid #383838;
         background-color: #383838;
         text-align: center;
