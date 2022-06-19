@@ -22,6 +22,30 @@ div.colors {
     width: 50%;
 }
 
+    div.colors h6.color-1 {
+        Border: 1px solid #BCB485;
+        background-color: #bcb485;
+        text-align: center;
+    }
+
+    div.colors h6.color-2 {
+        Border: 1px solid #DCD1C1;
+        background-color: #DCD1C1;
+        text-align: center;
+    }
+
+    div.colors h6.color-3 {
+        Border: 1px solid #F5F5F5;
+        background-color: #F5F5F5;
+        text-align: center;
+    }
+
+    div.colors h6.color-4 {
+        Border: 1px solid #383838;
+        background-color: #383838;
+        text-align: center;
+    }
+
 
 /* Fonts */
 div.fonts {
