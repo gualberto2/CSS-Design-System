@@ -8,13 +8,17 @@ h1 {
     text-align: center;
 }
 
+/* DIV */
+div {
+
+}
 
 /* Colors */
 div.colors {
     border: 2.3px solid #333;
     margin: 0px auto;
     padding: 0px auto;
-    position: center;
+    position: relative;
     width: 50%;
 }
 
@@ -24,7 +28,7 @@ div.fonts {
     border: 2.3px solid #333;
     margin: 0px auto;
     padding: 0px auto;
-    position: center;
+    position: relative;
     width: 50%;
 }
 
@@ -34,7 +38,7 @@ div.text-style {
     border: 2.3px solid #333;
     margin: 0px auto;
     padding: 0px auto;
-    position: center;
+    position: relative;
     width: 50%;
 }
 
@@ -44,7 +48,7 @@ div.navigation {
     border: 2.3px solid #333;
     margin: 0px auto;
     padding: 0px auto;
-    position: center;
+    position: relative;
     width: 50%;
 }
 
