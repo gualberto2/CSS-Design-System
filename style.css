@@ -16,7 +16,7 @@ div {
 /* Colors */
 div.colors {
     border: 2.3px solid #333;
-    margin: 0px auto;
+    margin: 10px auto 5px;
     padding: 0px auto;
     position: relative;
     width: 50%;
@@ -26,7 +26,7 @@ div.colors {
 /* Fonts */
 div.fonts {
     border: 2.3px solid #333;
-    margin: 0px auto;
+    margin: 10px auto 5px;
     padding: 0px auto;
     position: relative;
     width: 50%;
@@ -36,7 +36,7 @@ div.fonts {
 /* Text Styles */
 div.text-style {
     border: 2.3px solid #333;
-    margin: 0px auto;
+    margin: 10px auto 5px;
     padding: 0px auto;
     position: relative;
     width: 50%;
@@ -46,7 +46,7 @@ div.text-style {
 /* Nav Bar */
 div.navigation {
     border: 2.3px solid #333;
-    margin: 0px auto;
+    margin: 10px auto 5px;
     padding: 0px auto;
     position: relative;
     width: 50%;
