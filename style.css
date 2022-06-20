@@ -38,7 +38,7 @@ div.colors {
     width: 50%;
 }
 
-    div.color-1 h6 p {
+    .color-1 h6 p {
         Border: 1px solid #BCB485;
         background-color: #bcb485;
         text-align: center;
