@@ -101,9 +101,9 @@ div.fonts {
     width: 50%;
 }
     /* OSWALD */
-    h6.font-1,
-    h6.font-1 p {
-
+    h6.font-1 {
+        font-family: 'Oswald_Regular';
+        font-size: 35px;
     }
 
 
