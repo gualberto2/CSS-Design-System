@@ -46,6 +46,7 @@ div.colors {
         text-align: center;
         margin: 8px 30px 2px;
         color: white;
+        font-size: 17px;
         font-family: 'Source_Code_Pro_regular', sans-serif;
     }
 
@@ -55,6 +56,7 @@ div.colors {
         text-align: center;
         margin: 8px 30px 2px;
         color: white;
+        font-size: 17px;
         font-family: 'Source_Code_Pro_regular', sans-serif;
     }
 
@@ -64,6 +66,7 @@ div.colors {
         text-align: center;
         margin: 8px 30px 2px;
         color: white;
+        font-size: 17px;
         font-family: 'Source_Code_Pro_regular', sans-serif;
     }
 
@@ -73,42 +76,9 @@ div.colors {
         text-align: center;
         margin: 8px 30px 2px;
         color: white;
+        font-size: 17px;
         font-family: 'Source_Code_Pro_regular', sans-serif;
     }
-
-    /* text within color boxes */
-        div.colors h6.color-1 p.color1 {
-            Border: 1px solid #BCB485;
-            background-color: #bcb485;
-            text-align: center;
-            margin: 5px 30px 2px;
-            color: white;
-            font-family: 'Source_Code_Pro_regular', sans-serif;
-        }
-        div.colors h6.color-2 p.color2 {
-            Border: 1px solid #DCD1C1;
-            background-color: #DCD1C1;
-            text-align: center;
-            margin: 5px 30px 2px;
-            color: white;
-            font-family: 'Source_Code_Pro_regular', sans-serif;
-        }
-        div.colors h6.color-3 p.color3 {
-            Border: 1px solid #F5F5F5;
-            background-color: #F5F5F5;
-            text-align: center;
-            margin: 5px 30px 2px;
-            color: white;
-            font-family: 'Source_Code_Pro_regular', sans-serif;
-        }
-        div.colors h6.color-4 p.color4 {
-            Border: 1px solid #383838;
-            background-color: #383838;
-            text-align: center;
-            margin: 5px 30px 2px;
-            color: white;
-            font-family: 'Source_Code_Pro_regular', sans-serif;
-        }
 
 
 /* Fonts */
