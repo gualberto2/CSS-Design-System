@@ -12,6 +12,8 @@ head h1 {
 /* h1 title tags */
 h1 {
     text-align: center;
+    font-family: 'Source_Code_Pro_regular', sans-serif;
+    font-size: 42px;
 }
 
 /* DIV */
