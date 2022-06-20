@@ -114,6 +114,23 @@ div.fonts {
         font-size: 35px;
     }
 
+    /* NUNITO_SANS */
+    h6.font-2 {
+        font-family: 'Nunito_Sans_Regular', sans-serif;
+        font-size: 35px;
+    }
+
+    /* PROMPT */
+    h6.font-3 {
+        font-family: 'Prompt_Regular', sans-serif;
+        font-size: 35px;
+    }
+
+    /* SOURCE_CODE_PRO_REGULAR */
+    h6.font-4 {
+        font-family: 'Source_Code_Pro_Regular', sans-serif;
+        font-size: 35px;
+    }
 
 /* Text Styles */
 div.text-style {
