@@ -36,6 +36,8 @@ div.colors {
     padding: 5px 2px;
     position: relative;
     width: 50%;
+    font-size: 16px;
+    font-family: 'Source_Code_Pro_Regular', sans-serif;
 }
 
     div.color-1 {
