@@ -4,7 +4,7 @@
 }
 
 /* Head */
-head.title h1 {
+.title {
     text-align: center;
     margin-bottom: 50px;
     font-size: 61px;
