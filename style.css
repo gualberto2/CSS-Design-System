@@ -101,6 +101,11 @@ div.fonts {
     position: relative;
     width: 50%;
 }
+    /* OSWALD */
+    h6.font-1,
+    h6.font-1 p {
+            
+    }
 
 
 /* Text Styles */
