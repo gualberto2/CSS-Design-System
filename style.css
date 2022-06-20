@@ -80,6 +80,9 @@ div.colors {
         font-family: 'Source_Code_Pro_regular', sans-serif;
     }
 
+    div.colors h6 p {
+        font-size: 20px;
+    }
 
 /* Fonts */
 div.fonts {
