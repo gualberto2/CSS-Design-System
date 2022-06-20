@@ -6,7 +6,7 @@
 /* Head */
 head h1 {
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 /* h1 title tags */
@@ -14,6 +14,7 @@ h1 {
     text-align: center;
     font-family: 'Source_Code_Pro_regular', sans-serif;
     font-size: 42px;
+    text-decoration: underline;
 }
 
 
@@ -22,7 +23,7 @@ h4 {
     text-align: center;
     font-size: 19px;
     font-family: 'Source_Code_Pro_regular', sans-serif;
-    margin-top: ;
+    margin-bottom: 20px;
 }
 
 /* DIV */
