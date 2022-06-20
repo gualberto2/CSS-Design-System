@@ -32,6 +32,10 @@ div {
 }
 
 /* Colors */
+div.colors-container {
+    margin: 10px auto;
+}
+
 div.colors {
     border: 2.3px solid #333;
     margin: 10px auto 5px;
