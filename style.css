@@ -132,7 +132,7 @@ div.fonts {
         text-align: center;
     }
         /* P tags */
-        h6.font-1 p {
+        h6.font-2 p {
             text-align: center;
             font-family: 'Nunito_Sans_Regular', sans-serif;
             font-size: 15px;
@@ -146,7 +146,7 @@ div.fonts {
         text-align: center;
     }
         /* P tags */
-        h6.font-1 p {
+        h6.font-3 p {
             text-align: center;
             font-family: 'Prompt_Regular', sans-serif;
             font-size: 15px;
@@ -160,7 +160,7 @@ div.fonts {
         text-align: center;
     }
         /* P tags */
-        h6.font-1 p {
+        h6.font-4 p {
             text-align: center;
             font-family: 'Source_Code_Pro_Regular', sans-serif;
             font-size: 15px;
