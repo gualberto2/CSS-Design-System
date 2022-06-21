@@ -25,7 +25,7 @@ h4 {
     text-align: center;
     font-size: 19px;
     font-family: 'Source_Code_Pro_regular', sans-serif;
-    margin-bottom: 20px;
+    margin: 20px 100px;
 }
 
 /* DIV */
@@ -117,6 +117,12 @@ div.fonts {
         text-decoration: underline;
         text-align: center;
     }
+        /* P tags */
+        h6.font-1 p {
+            text-align: center;
+            font-family: 'Oswald_Regular', sans-serif;
+            font-size: 15px;
+        }
 
     /* NUNITO_SANS */
     h6.font-2 {
@@ -125,6 +131,12 @@ div.fonts {
         text-decoration: underline;
         text-align: center;
     }
+        /* P tags */
+        h6.font-2 p {
+            text-align: center;
+            font-family: 'Nunito_Sans_Regular', sans-serif;
+            font-size: 15px;
+        }
 
     /* PROMPT */
     h6.font-3 {
@@ -133,6 +145,12 @@ div.fonts {
         text-decoration: underline;
         text-align: center;
     }
+        /* P tags */
+        h6.font-3 p {
+            text-align: center;
+            font-family: 'Prompt_Regular', sans-serif;
+            font-size: 15px;
+        }
 
     /* SOURCE_CODE_PRO_REGULAR */
     h6.font-4 {
@@ -141,6 +159,12 @@ div.fonts {
         text-decoration: underline;
         text-align: center;
     }
+        /* P tags */
+        h6.font-4 p {
+            text-align: center;
+            font-family: 'Source_Code_Pro_Regular', sans-serif;
+            font-size: 15px;
+        }
 
 /* Text Styles */
 div.text-style {
@@ -161,6 +185,29 @@ div.text-style {
         
     }
 
+    /* Subheading */
+    .text-style2 {
+        text-align: center;
+        font-size: 42px;
+        font-family: 'Nunito_Sans_Regular', sans-serif;
+        padding: 11px auto;
+    }
+
+    /* Header */
+    .text-style3 {
+        text-align: center;
+        font-size: 25px;
+        font-family: 'Nunito_Sans_Regular', sans-serif;
+        padding: 11px auto;
+    }
+
+    /* Paragraph, text, content */
+    .text-style4 {
+        text-align: center;
+        font-size: 19px;
+        font-family: 'Nunito_Sans_Regular', sans-serif;
+        padding: 11px auto;
+    }
 
 /* Nav Bar */
 div.navigation {
