@@ -194,7 +194,18 @@ div.text-style {
 
     /* Header */
     .text-style3 {
-        
+        text-align: center;
+        font-size: 25px;
+        font-family: 'Nunito_Sans_Regular', sans-serif;
+        padding: 11px auto;
+    }
+
+    /* Paragraph, text, content */
+    .text-style4 {
+        text-align: center;
+        font-size: 19px;
+        font-family: 'Nunito_Sans_Regular', sans-serif;
+        padding: 11px auto;
     }
 
 /* Nav Bar */
