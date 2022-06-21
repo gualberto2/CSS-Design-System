@@ -117,6 +117,12 @@ div.fonts {
         text-decoration: underline;
         text-align: center;
     }
+        /* P tags */
+        h6.font-1 p {
+            text-align: center;
+            font-family: 'Oswald_Regular', sans-serif;
+            font-size: 15px;
+        }
 
     /* NUNITO_SANS */
     h6.font-2 {
@@ -125,6 +131,12 @@ div.fonts {
         text-decoration: underline;
         text-align: center;
     }
+        /* P tags */
+        h6.font-1 p {
+            text-align: center;
+            font-family: 'Nunito_Sans_Regular', sans-serif;
+            font-size: 15px;
+        }
 
     /* PROMPT */
     h6.font-3 {
@@ -133,6 +145,12 @@ div.fonts {
         text-decoration: underline;
         text-align: center;
     }
+        /* P tags */
+        h6.font-1 p {
+            text-align: center;
+            font-family: 'Prompt_Regular', sans-serif;
+            font-size: 15px;
+        }
 
     /* SOURCE_CODE_PRO_REGULAR */
     h6.font-4 {
@@ -141,6 +159,12 @@ div.fonts {
         text-decoration: underline;
         text-align: center;
     }
+        /* P tags */
+        h6.font-1 p {
+            text-align: center;
+            font-family: 'Source_Code_Pro_Regular', sans-serif;
+            font-size: 15px;
+        }
 
 /* Text Styles */
 div.text-style {
