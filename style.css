@@ -184,6 +184,18 @@ div.text-style {
         
     }
 
+    /* Subheading */
+    .text-style2 {
+        text-align: center;
+        font-size: 42px;
+        font-family: 'Nunito_Sans_Regular', sans-serif;
+        padding: 11px auto;
+    }
+
+    /* Header */
+    .text-style3 {
+        
+    }
 
 /* Nav Bar */
 div.navigation {
