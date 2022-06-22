@@ -248,7 +248,7 @@ div.navigation {
 }
 
     /* nav-bar1 */
-    .nav-bar1 {
+    .nav-bar1 ul {
         box-sizing: border-box;
         border: 1px solid #383838;
         background-color: #383838;
@@ -263,10 +263,10 @@ div.navigation {
         float: left;
     }
         
-        .nav-bar1 li {
+        .nav-bar1 ul li {
             color: #F5F5F5;
             text-align: center;
-            
+
         }
 
 
