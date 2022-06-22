@@ -116,6 +116,7 @@ div.fonts {
         font-size: 35px;
         text-decoration: underline;
         text-align: center;
+        margin: 15px auto;
     }
         /* P tags */
         h6.font-1 p {
@@ -130,6 +131,7 @@ div.fonts {
         font-size: 35px;
         text-decoration: underline;
         text-align: center;
+        margin: 15px auto;
     }
         /* P tags */
         h6.font-2 p {
@@ -144,6 +146,7 @@ div.fonts {
         font-size: 35px;
         text-decoration: underline;
         text-align: center;
+        margin: 15px auto;
     }
         /* P tags */
         h6.font-3 p {
@@ -158,6 +161,7 @@ div.fonts {
         font-size: 35px;
         text-decoration: underline;
         text-align: center;
+        margin: 15px auto;
     }
         /* P tags */
         h6.font-4 p {
@@ -165,6 +169,31 @@ div.fonts {
             font-family: 'Source_Code_Pro_Regular', sans-serif;
             font-size: 15px;
         }
+    
+    /* P tags */
+    div.p-font-1 {
+        text-align: center;
+        font-family: 'Oswald_Regular', sans-serif;
+        font-size: 15px;
+    }
+
+    div.p-font-2 {
+        text-align: center;
+        font-family: 'Nunito_Sans_Regular', sans-serif;
+        font-size: 15px;
+    }
+
+    div.p-font-3 {
+        text-align: center;
+        font-family: 'Prompt_Regular', sans-serif;
+        font-size: 15px;
+    }
+
+    div.p-font-4 {
+        text-align: center;
+        font-family: 'Source_Code_Pro_Regular', sans-serif;
+        font-size: 15px;
+    }
 
 /* Text Styles */
 div.text-style {
