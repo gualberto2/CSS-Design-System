@@ -267,6 +267,7 @@ div.navigation {
             color: #F5F5F5;
             text-align: center;
             text-decoration: none;
+            list-style-type: none;
         }
 
         ul.nav-bar1 li a:hover {
@@ -274,6 +275,7 @@ div.navigation {
             text-align: center;
             text-decoration: underline;
             text-decoration-color: #F5F5F5;
+            list-style-type: none;
         }
 
 
