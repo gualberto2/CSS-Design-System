@@ -247,6 +247,28 @@ div.navigation {
     width: 50%;
 }
 
+    /* nav-bar1 */
+    .nav-bar1 {
+        box-sizing: border-box;
+        border: 1px solid #383838;
+        background-color: #383838;
+        width: auto;
+        height: 40px;
+        margin: 0px auto;
+        padding: 10px auto;
+        list-style-type: none;
+        overflow: hidden;
+        position: sticky;
+        font-family: 'Nunito_Sans_Regular';
+        float: left;
+    }
+        
+        .nav-bar1 li {
+            color: #F5F5F5;
+            text-align: center;
+            
+        }
+
 
 /* Font stuff */
 @font-face {
