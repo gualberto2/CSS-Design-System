@@ -266,7 +266,13 @@ div.navigation {
         .nav-bar1 ul li {
             color: #F5F5F5;
             text-align: center;
+            text-decoration: none;
+        }
 
+        .nav-bar1 ul li a:hover {
+            color: #F5F5F5;
+            text-align: center;
+            text-decoration: none;
         }
 
 
