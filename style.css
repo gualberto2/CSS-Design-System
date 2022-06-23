@@ -249,7 +249,7 @@ div.navigation {
 
 div.navigation h6 {
     font-family: 'Nunito_sans_regular';
-    font-size: 35px;
+    font-size: 23px;
     text-decoration: underline;
     text-align: center;
     margin: 15px auto;
@@ -265,6 +265,7 @@ li:last-child {
 .nav4 {
     border: 1px solid transparent;
     position: relative;
+    margin: 0 auto;
 }
     /* nav-bar1 */
     .nav1 {
