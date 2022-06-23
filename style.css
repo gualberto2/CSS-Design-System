@@ -248,7 +248,7 @@ div.navigation {
 }
 
     /* nav-bar1 */
-    ul.nav-bar1 {
+    .nav1 {
         box-sizing: border-box;
         border: 1px solid #383838;
         background-color: #383838;
@@ -278,7 +278,7 @@ div.navigation {
             list-style-type: none;
         }
     /* nav-bar2 */
-    ul.nav-bar2 {
+    .nav2 {
         box-sizing: border-box;
         border: 1px solid #383838;
         background-color: #383838;
@@ -309,7 +309,7 @@ div.navigation {
         }
         
      /* nav-bar3 */
-        ul.nav-bar3 {
+        .nav3 {
             box-sizing: border-box;
             border: 1px solid #383838;
             background-color: #383838;
@@ -339,8 +339,8 @@ div.navigation {
                 list-style-type: none;
             }
 
-            /* nav-bar1 */
-    ul.nav-bar4 {
+    /* nav-bar1 */
+    .nav4 {
         box-sizing: border-box;
         border: 1px solid #383838;
         background-color: #383838;
