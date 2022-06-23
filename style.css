@@ -258,6 +258,14 @@ div.navigation h6 {
 li:last-child {
     border-right: none;
 }
+
+.nav1,
+.nav2,
+.nav3,
+.nav4 {
+    border: 1px solid transparent;
+    position: relative;
+}
     /* nav-bar1 */
     .nav1 {
         box-sizing: border-box;
