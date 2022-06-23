@@ -247,6 +247,14 @@ div.navigation {
     width: 50%;
 }
 
+div.navigation h6 {
+    font-family: 'Nunito_sans_regular';
+    font-size: 35px;
+    text-decoration: underline;
+    text-align: center;
+    margin: 15px auto;
+}
+
     /* nav-bar1 */
     .nav1 {
         box-sizing: border-box;
