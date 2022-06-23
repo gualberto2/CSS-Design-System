@@ -255,6 +255,9 @@ div.navigation h6 {
     margin: 15px auto;
 }
 
+li:last-child {
+    border-right: none;
+}
     /* nav-bar1 */
     .nav1 {
         box-sizing: border-box;
@@ -276,6 +279,7 @@ div.navigation h6 {
             text-decoration: none;
             list-style-type: none;
             display: inline;
+            border-right: 1px solid white;
         }
 
         ul.nav-bar1 li a:hover {
@@ -306,6 +310,7 @@ div.navigation h6 {
             text-decoration: none;
             list-style-type: none;
             display: inline;
+            border-right: 1px solid white;
         }
 
         ul.nav-bar2 li a:hover {
@@ -337,6 +342,7 @@ div.navigation h6 {
                 text-decoration: none;
                 list-style-type: none;
                 display: inline;
+                border-right: 1px solid white;
             }
     
             ul.nav-bar3 li a:hover {
@@ -368,6 +374,7 @@ div.navigation h6 {
             text-decoration: none;
             list-style-type: none;
             display: inline;
+            border-right: 1px solid white;
         }
 
         ul.nav-bar4 li a:hover {
